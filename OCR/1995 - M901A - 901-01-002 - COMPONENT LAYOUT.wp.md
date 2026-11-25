@@ -1,5 +1,5 @@
 # 1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp
-Wiki page: [M901A](../../../PAGES/M901A.md)
+Wiki page: [M901A](../../../../PAGES/M901A.md)
 
 
 - **Year:** 1995 (found in this file: "Issue #5 December 14, 1995")
@@ -962,7 +962,7 @@ MW94002/M901A#5WP
 
 ```json
 {
- "file": "Modules/UNSORTED/M901A/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
+ "file": "Modules/UNSORTED/M901A/SCHEMATICS/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
  "sha256": "08d57c1968e2378774686becf34d14eda79551b3ce473fedad0d9a6a84e19e89",
  "kind": "module",
  "models": [
