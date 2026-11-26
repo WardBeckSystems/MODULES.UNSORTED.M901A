@@ -32,7 +32,7 @@ Wiki page: [M901A](../../../../PAGES/M901A.md)
 - **Words (OCR):** 58 in 48 lines: 933 · REC D · (00+ Rad CorpEREL · DUNCH 0 JE D · 0.50d · 2452 · 2.,242 · APPROC · 2002 · 0.203 DA REC D · P1+ · GHCEWTATION
 - **Title block:** (698, 53)–(864, 96) mm: ISSuEDAI · WBS) · WARD-BECK SYSTEMS · M9O1A
 
-Every curve, box, word and wire group: [19xx - 901-03-004 - UNIVERSAL INPUT MODULE - DRN DRG - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20901-03-004%20-%20UNIVERSAL%20INPUT%20MODULE%20-%20DRN%20DRG%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 901-03-004 - UNIVERSAL INPUT MODULE - DRN DRG - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 901-03-004 - UNIVERSAL INPUT MODULE - DRN DRG - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20901-03-004%20-%20UNIVERSAL%20INPUT%20MODULE%20-%20DRN%20DRG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 901-03-004 - UNIVERSAL INPUT MODULE - DRN DRG - ISS 3 (traced).dxf`).
 
 ## Full text
 
