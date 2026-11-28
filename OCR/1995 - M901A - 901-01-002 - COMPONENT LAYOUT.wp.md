@@ -1,5 +1,5 @@
 # 1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp
-Wiki page: [M901A](../../../../PAGES/M901A.md)
+Wiki page: [M901A](../)
 
 
 - **Year:** 1995 (found in this file: "Issue #5 December 14, 1995")

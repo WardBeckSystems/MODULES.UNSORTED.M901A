@@ -1,5 +1,5 @@
 # 19xx - 901-03-004 - UNIVERSAL INPUT MODULE - DRN DRG - ISS 3.jpg
-Wiki page: [M901A](../../../../PAGES/M901A.md)
+Wiki page: [M901A](../)
 
 
 - **Year:** unknown (title block (read by eye))
