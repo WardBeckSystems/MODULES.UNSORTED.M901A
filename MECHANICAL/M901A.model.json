@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M901A",
- "repo": "MODULES.UNSORTED.M901A-Universal-Input-Module",
+ "repo": "MODULES.RENAISSANCE.M901A-Universal-Input-Module",
  "title": "Universal Input Module",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
